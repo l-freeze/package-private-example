@@ -5,6 +5,6 @@
         }
     },
     "require": {
-        "l-freeze/package-private": "^0.0.2"
+        "l-freeze/package-private": "^0.1.1"
     }
 }
